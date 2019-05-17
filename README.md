@@ -19,4 +19,14 @@ The polygons are rotated by the golden ratio and shrink with each iteration, cre
 ## Octagon
 ![img](https://i.imgur.com/xlesW0q.png)
 
+## Nonagon
+![img](https://i.imgur.com/6FOhbbX.png)
 
+## Decagon
+![img](https://i.imgur.com/eoYPhEk.png)
+
+## Hendecagon
+![img](https://i.imgur.com/Sni74vv.png)
+
+## Dodecagon
+![img](https://i.imgur.com/tRKbrvc.png)
